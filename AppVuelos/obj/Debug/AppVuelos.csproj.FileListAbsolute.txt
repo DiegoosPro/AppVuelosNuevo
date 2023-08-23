@@ -76,3 +76,4 @@ C:\Users\experto\Desktop\AppVuelos\AppVuelos\obj\Debug\AppVuelos.frmRepClientes.
 C:\Users\experto\Desktop\AppVuelos\AppVuelos\obj\Debug\AppVuelos.frmRepAeropuertoPais.resources
 C:\Users\experto\Desktop\AppVuelos\AppVuelos\obj\Debug\AppVuelos.FrmRepPersonalizados.resources
 C:\Users\experto\Desktop\AppVuelos\AppVuelos\obj\Debug\AppVuelos.frmRepClienteVuelo.resources
+C:\Users\experto\Desktop\AppVuelos\AppVuelos\obj\Debug\AppVuelos.FrmRepUsuariosRoles.resources
